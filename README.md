@@ -1,8 +1,8 @@
 # Pradel Jumelle
 
-QA Engineer working on agentic systems and applied AI. Orlando, FL.
+I build agentic systems and AI workflows. Orlando, FL.
 
-I build AI workflows that people actually use, then measure whether they work.
+Seven years in software quality taught me where systems break and how to tell when something is ready. I build with that instinct.
 
 ## What I build
 
